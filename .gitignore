@@ -121,6 +121,6 @@ dmypy.json
 .pyre/
 
 # src with extraction files
-.src/
+src/
 
 # End of https://www.gitignore.io/api/python,jupyternotebooks
