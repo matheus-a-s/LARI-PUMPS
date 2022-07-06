@@ -29,7 +29,7 @@ jupyter-nbextensions-configurator==0.4.1
 jupyterlab==2.0.1
 jupyterlab-server==1.0.7
 kiwisolver==1.1.0
-lxml==4.5.0
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 mistune==0.8.4
